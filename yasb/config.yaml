@@ -413,10 +413,10 @@ widgets:
       app_list:
         # - { icon: "\uf422", launch: "search" }
         - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
-        # - { icon: "\uf268",launch: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" }
+        - { icon: "",launch: "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe" }
         - { icon: "\uf489", launch: "wt" }
-        # - { icon: "\uf1ff",launch: "Discord.exe" }
-        # - { icon: "\udb82\ude1e",launch: "Code.exe" }
+        - { icon: "",launch: "C:\\Users\\Mateusz Pawlowski\\applications\\steam.exe"}
+        - { icon: "\udb82\ude1e",launch: "C:\\Microsoft VS Code\\Code.exe" }
   taskbar:
     type: "yasb.taskbar.TaskbarWidget"
     options:
@@ -451,3 +451,4 @@ widgets:
       left: 0
       bottom: 0
       right: 0
+
