@@ -237,7 +237,7 @@ widgets:
   home:
     type: "yasb.home.HomeWidget"
     options:
-      label: "( ˇ෴ˇ )"
+      label: "⋅˚₊‧ ଳ ‧₊˚ ⋅"
       menu_list:
         - { title: "Home", path: "~" }
         - { title: "Local", path: "C:"}
@@ -415,6 +415,7 @@ widgets:
         - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
         - { icon: "",launch: "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe" }
         - { icon: "\uf489", launch: "wt" }
+        - { icon: "", launch: "C:\\Users\\Mateusz Pawlowski\\AppData\\Roaming\\Spotify\\Spotify.exe"}
         - { icon: "",launch: "C:\\Users\\Mateusz Pawlowski\\applications\\steam.exe"}
         - { icon: "\udb82\ude1e",launch: "C:\\Microsoft VS Code\\Code.exe" }
   taskbar:
@@ -451,4 +452,3 @@ widgets:
       left: 0
       bottom: 0
       right: 0
-
